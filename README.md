@@ -1,4 +1,4 @@
-#🎓 Smart Learning Recommender Chatbot
+#**🎓 Smart Learning Recommender Chatbot**
 
 
 
@@ -331,5 +331,6 @@ requests
 sentence-transformers
 
 numpy
+
 
 
